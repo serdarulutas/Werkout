@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workouts Name="Monday Morning" id="GUID">	
+	<Workout Time="20">PUSHUP</Workout>
+	<Workout Time="10">REST</Workout>
+	<Workout Time="45">JUMP</Workout>
+	<Workout Time="15">REST</Workout>	
+</Workouts>

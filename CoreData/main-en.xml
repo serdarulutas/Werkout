@@ -26,5 +26,12 @@
   	<Equipment Value="CHINUP_BAR" Name="Chin up Bar" Image="img/equip/chinupbar.png"> 	  	
   </Equipments>
   
+  <Workouts>
+  	<Workout value="PUSHUPS" Name="Push-ups" Resource="vid/pushups.mp4"/>
+  	<Workout value="JUMP_JACKS" Name="Jumping Jacks" Resource="vid/jjacks.mp4"/>
+  	<Workout value="JUMP_ROPE" Name="Jumping" Resource="vid/jjacks.mp4"/>  	
+  	<Workout value="REST" Name="Rest" Resource="vid/rest.mp4"/>
+  </Workouts>
+  
   
 </MainSetup>
