@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainSetup>
+  
+  <WorkoutDifficulty>
+  	<Level Value="10" Name="Easy"/> 
+  	<Level Value="50" Name="Medium"/>
+  	<Level Value="70" Name="Difficult"/>
+  	<Level Value="90" Name="Extreme"/>
+  </WorkoutDifficulty>
+  
+  <WorkoutFocus>
+  	<Focus Value="CHEST" Name="Chest"/>
+  	<Focus Value="LEGS" Name="Legs"/>
+  	<Focus Value="ABS" Name="Abs"/>
+  	<Focus Value="ARMS" Name="Arms"/>
+  	<Focus Value="CARDIO" Name="Cardio"/>  	  	
+  </WorkoutFocus>
+  
+  <Equipments>
+  	<Equipment Value="BARBELL" Name="Barbell" Image="img/equip/barbell.png">
+  	<Equipment Value="DUMBBELL" Name="Dumbbell" Image="img/equip/dumbbell.png">
+  	<Equipment Value="SIT_BENCH" Name="Sitting Bench" Image="img/equip/sitbench.png">
+  	<Equipment Value="ABS_BENCH" Name="Abdominal Bench" Image="img/equip/absbench.png">  	
+  	<Equipment Value="AB_ROLLER" Name="Ab Roller" Image="img/equip/abroller.png">
+  	<Equipment Value="STABILITY_BALL" Name="Stability Ball" Image="img/equip/ball.png">
+  	<Equipment Value="CHINUP_BAR" Name="Chin up Bar" Image="img/equip/chinupbar.png"> 	  	
+  </Equipments>
+  
+  
+</MainSetup>

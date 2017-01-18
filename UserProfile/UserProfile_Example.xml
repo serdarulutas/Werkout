@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<User>
+<GymProfiles>
+	<Gym Name="Home">
+		<Equipment Value="BARBELL"/>
+		<Equipment Value="DUMBBELL"/>	
+	</Gym> 
+	
+	<Gym Name="Gym">
+		<Equipment Value="SIT_BENCH"/>
+		<Equipment Value="ABS_BENCH"/>	
+	</Gym>
+	
+	<Gym Name="Outdoors">			
+	</Gym>
+	
+</GymProfiles>
+</User>
