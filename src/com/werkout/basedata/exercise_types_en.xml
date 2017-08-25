@@ -1,0 +1,6 @@
+<exercise_types>
+  <type id="10" description="Exercise"></type>
+  <type id="20" description="Cooldown"></type>
+  <type id="30" description="Rest"></type>
+  <type id="40" description="Other"></type>
+</exercise_types>
